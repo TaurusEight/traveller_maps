@@ -1,0 +1,29 @@
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8
+Kren          0108 B867882-7  J                 A  001 Po K4 V
+Eurona        0203 D363256-3                       001    K4 V
+Ceder         0204 FS00634-A                       001    K4 V
+TENAVAR       0208 C664A70-3  S                    001    K4 V
+Nurrim        0209 XA56672-2                    R  000 Po K4 V
+Pluvia Cado   0303 C38A67B-5                       001    K4 V
+CARTHAGE      0304 A821920-B  B Cp Hi Na In Po     111    K4 V
+Envidien      0305 C577668-8                       001    K4 V
+Seda          0308 C119431-9                       000    K4 V
+Ruinil        0309 A6887C7-4                       000    K4 V
+BARSALOW      0403 D8599DA-6                    A  000 In K4 V
+Aequoris      0404 C21A543-7                       000    G3 V
+Henderson     0408 G8C0337-A                       000    G3 V
+Oculus        0504 B8387A3-9                       000    G3 V
+Harrington    0505 C997740-9                       001    G3 V
+Casaid        0507 F000888-9  J                    010 In G3 V
+TUPREE        0508 C2209D9-7  J                 A  001 In G3 V
+Hawkins       0601 D653640-4                       001    G3 V
+Floral        0604 GS03322-9                       000    G3 V
+Nema          0607 FS00660-A  B                    000    G3 V
+SOMNUS        0608 C510ADA-9                    A  000    G3 V
+Corador       0701 A751753-9                       001    G3 V
+Marral        0702 G0007AA-8                       000    G3 V
+FOREST        0707 F000A70-7  J                    000 In G3 V
+Vandas        0708 A8B0855-A                       001    G3 V
+Sominum Mons  0801 B977000-8                       001    G3 V
+Toth          0806 E451731-1                       001    G3 V
+Madeeha       0807 D651694-7                       001    G3 V

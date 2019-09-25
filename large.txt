@@ -1,0 +1,53 @@
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8
+Kren          0108 B867882-7  J                 A  001 Po K4 V
+Eurona        0203 D363256-3                       001    K4 V
+Ceder         0204 FS00634-A                       001    K4 V
+TENAVAR       0208 C664A70-3  S                    001    K4 V
+Nurrim        0209 XA56672-2                    R  000 Po K4 V
+Pluvia Cado   0303 C38A67B-5                       001    K4 V
+CARTHAGE      0304 A821920-B  B Cp Hi Na In Po     111    K4 V
+Envidien      0305 C577668-8                       001    K4 V
+Seda          0308 C119431-9                       000    K4 V
+Ruinil        0309 A6887C7-4                       000    K4 V
+BARSALOW      0403 D8599DA-6                    A  000 In K4 V
+Aequoris      0404 C21A543-7                       000    G3 V
+Henderson     0408 G8C0337-A                       000    G3 V
+Oculus        0504 B8387A3-9                       000    G3 V
+Harrington    0505 C997740-9                       001    G3 V
+Casaid        0507 F000888-9  J                    010 In G3 V
+TUPREE        0508 C2209D9-7  J                 A  001 In G3 V
+Hawkins       0601 D653640-4                       001    G3 V
+Floral        0604 GS03322-9                       000    G3 V
+Nema          0607 FS00660-A  B                    000    G3 V
+SOMNUS        0608 C510ADA-9                    A  000    G3 V
+Corador       0701 A751753-9                       001    G3 V
+Marral        0702 G0007AA-8                       000    G3 V
+FOREST        0707 F000A70-7  J                    000 In G3 V
+Vandas        0708 A8B0855-A                       001    G3 V
+Sominum Mons  0801 B977000-8                       001    G3 V
+Toth          0806 E451731-1                       001    G3 V
+Madeeha       0807 D651694-7                       001    G3 V
+....+....1....+....2....+....3....+....4....+....5....+....6....+....7....+....8
+CASTELAN      0903 A69AAEG-8  B                 A  001    K4 V
+Towers        0904 B8D3653-B  B                    001    K4 V
+Standford     1003 DA68783-1                       001    K4 V
+Wyn'Sense     1102 BAF36C0-D  J                 A  001 Wy K4 V
+Tomlin        1104 C66A300-6  S                    001    K4 V
+Pretense      1105 C120876-5                       000    K4 V
+DURRAN        1106 A854956-A  N                    001    K4 V
+Craftlock     1110 B687860-G  J                 R  001 Hr K4 V
+Gallic        1209 C7A0860-G  J                 R  001 Hr K4 V
+HERITAGE      1210 A86AA50-H  J                 R  000 Hr K4 V
+Twins         1302 C766831-5                       001    K4 V
+QUARTERMARK   1303 A883973-A  N                    001    K4 V
+Domus         1307 F000554-7                       000    K4 V
+Corbett       1308 C844877-6  S                    001    K4 V
+Kcaso         1401 D68A854-9                       001    K4 V
+Crowler       1405 B269840-5  S                    001    K4 V
+Keystone      1406 D536522-6                       001    K4 V
+Kashmir       1407 C9A7555-6  S                    001    K4 V
+Kandahar      1502 B888789-8                       001    K4 V
+MENSAH        1506 A88A987-A  N                    001    K4 V
+Tantry        1507 B8978B9-7                       001    K4 V
+Wellright     1602 G000679-7                       001    K4 V
+Song          1603 D433573-2  S                    001    K4 V

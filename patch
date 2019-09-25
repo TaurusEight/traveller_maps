@@ -1,0 +1,67 @@
+diff -u sec2pdf.orig/sec2pdf sec2pdf/sec2pdf
+--- sec2pdf.orig/sec2pdf	2016-10-31 13:29:41.528847875 -0700
++++ sec2pdf/sec2pdf	2016-06-24 14:43:00.547483490 -0700
+@@ -462,6 +462,8 @@
+ 			$pdf->circle($x-$tmppos/3,$y-$tmppos,$tmprad*1.3);
+ 			styledcircle("system-belt",0,$x-$tmppos,$y+$tmppos/3,
+ 				$tmprad*0.7);
++		}elsif (substr($uwp,3,1) eq 'A') {
++			styledcircle("system-world-iswater",0,$x,$y);
+ 		}elsif (substr($uwp,3,1) ne '0') {
+ 			styledcircle("system-world-haswater",0,$x,$y);
+ 		}else{
+@@ -515,9 +517,14 @@
+ 		styledcircle("system-gasgiant",0,$x,$y)
+ 			if substr($pbg,2,1) ne "0";
+
+-		# allegiance - skip blank
+-		styledtext("system-ally",0,$ally,$x,$y)
+-			if $ally and $ally ne "Xx";
++		if ($ally and activestyle("system-ally")) {
++			# allegiance - skip blank
++			styledtext("system-ally",0,$ally,$x,$y);
++		}
++		if ($trade and activestyle("system-trade")) {
++			# trade - skip blank
++			styledtext("system-trade",0,rtrim($trade),$x,$y);
++		}
+ 	}}
+ }
+
+@@ -777,7 +784,8 @@
+
+ system-world-radius 29
+ system-world-stroke none
+-system-world-haswater-fill blue
++system-world-haswater-fill powderblue
++system-world-iswater-fill blue
+ system-world-nowater-fill black
+
+ system-belt-stroke none
+@@ -792,10 +800,16 @@
+ system-gasgiant-stroke none
+ system-gasgiant-radius 10
+
++system-ally on
+ system-ally-size 25
+ system-ally-align right
+ system-ally-pos 85 -43
+
++system-trade off
++system-trade-size 25
++system-trade-align right
++system-trade-pos 85 -43
++
+ system-amber-radius 70
+ system-amber-stroke orange
+ system-amber-fill none
+@@ -1343,3 +1357,9 @@
+ 	# draw this last so it ends up on top...
+ 	drawsystemdata($C,$R) if keys %SystemData > 0;
+ }
++
++sub rtrim {
++	my $s = shift;
++	$s =~ s/\s+$//;
++	 return $s
++}
