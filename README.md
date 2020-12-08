@@ -1,6 +1,6 @@
 # traveller_maps
 Modified Perl script used to generate nice
-looking maps for the RPG Classic Traveller
+looking PDF from text input.
 
 sec2pdf : The modified perl script used to generate the map
 sec2pdf.original : The unmodified original perl script by J Greely
